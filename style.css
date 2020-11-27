@@ -1,0 +1,115 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+main{
+  width: 960px;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+.list1{
+  display: block;
+  background-color: #f7f7f7;
+}
+.list1-text{
+  padding: 20px;
+}
+.list2{
+  display: block;
+}
+.list2-text{
+  padding: 20px;
+}
+.list3{
+  display: block;
+  background-color: #f7f7f7;
+}
+.list3-text{
+  padding:20px;
+}
+.list4{
+  display: block;
+}
+.list4-text{
+  padding: 20px;
+}
+.list5{
+  display: block;
+  background-color: #f7f7f7;
+}
+.list5-text{
+  padding: 20px;
+}
+.list6{
+  display: block;
+}
+.list6-text{
+  padding: 20px;
+}
+.list7{
+  display: block;
+  background-color: #f7f7f7;
+}
+.list7-text{
+  padding: 20px;
+}
+
+.box{
+  display: flex;
+  flex-wrap: wrap;
+}
+.box1{
+  width: 30%;
+  height: 200px;
+  margin: 50px 5% 40px 0;
+  background-color: orange;
+}
+.box2{
+  width: 30%;
+  height: 200px;
+  margin: 50px 5% 40px 0;
+  background-color: yellow;
+}
+.box3{
+  width: 30%;
+  height: 200px;
+  margin: 50px 0 40px 0;
+  background-color: yellow;
+}
+.box4{
+  width: 30%;
+  height: 200px;
+  margin: 50px 5% 40px 0;
+  background-color: yellow;
+}
+.box5{
+  width: 30%;
+  height: 200px;
+  margin: 50px 5% 40px 0;
+  background-color: orange;
+}
+.box6{
+  width: 30%;
+  height: 200px;
+  margin: 50px 0 40px 0;
+  background-color: yellow;
+}
+.box7{
+  width: 30%;
+  height: 200px;
+  margin: 50px 5% 40px 0;
+  background-color: yellow;
+}
+.box8{
+  width: 30%;
+  height: 200px;
+  margin: 50px 5% 40px 0;
+  background-color: yellow;
+}
+.box9{
+  width: 30%;
+  height: 200px;
+  margin: 50px 0 40px 0;
+  background-color: orange;
+}
